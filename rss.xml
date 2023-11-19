@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Lunar Client News</title>
+        <link>https://www.lunarclient.com/</link>
+        <description>Keep up to date on official &amp; important news from Lunar Client</description>
+        <lastBuildDate>Fri, 17 Nov 2023 19:03:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Lunar Client</generator>
+        <language>en</language>
+        <copyright>All rights reserved 2023, Moonsworth LLC</copyright>
+        <category>Announcement</category>
+        <category>Development</category>
+        <atom:link href="https://www.lunarclient.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Advantages of using Lunar Client on Survival Minecraft]]></title>
+            <link>https://www.lunarclient.com/news/the-advantages-of-using-lunar-client-on-survival-minecraft</link>
+            <guid>the-advantages-of-using-lunar-client-on-survival-minecraft</guid>
+            <pubDate>Mon, 30 Oct 2023 21:56:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/f98978230d-2023-09-28_13.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Top 10 Underrated Lunar Client Mods and Settings]]></title>
+            <link>https://www.lunarclient.com/news/top-10-underrated-lunar-client-mods-and-settings</link>
+            <guid>top-10-underrated-lunar-client-mods-and-settings</guid>
+            <pubDate>Mon, 23 Oct 2023 01:56:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/0b7c0bd031-2023-09-28_14.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pack Display Mod & Pack Organizer Mod Showcase]]></title>
+            <link>https://www.lunarclient.com/news/pack-display-mod-pack-organizer-mod-showcase</link>
+            <guid>pack-display-mod-pack-organizer-mod-showcase</guid>
+            <pubDate>Mon, 16 Oct 2023 21:56:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/3b3abb24cf-2023-09-28_14.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunar Client’s Keystrokes Mod Explained]]></title>
+            <link>https://www.lunarclient.com/news/lunar-clients-keystrokes-mod-explained</link>
+            <guid>lunar-clients-keystrokes-mod-explained</guid>
+            <pubDate>Mon, 09 Oct 2023 19:55:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/cbf8a432da-2023-09-28_14-02-35.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The benefits of using Lunar Client as a Content Creator]]></title>
+            <link>https://www.lunarclient.com/news/the-benefits-of-using-lunar-client-as-a-content-creator</link>
+            <guid>the-benefits-of-using-lunar-client-as-a-content-creator</guid>
+            <pubDate>Mon, 02 Oct 2023 13:57:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/defd5514ca-2023-09-28_14-06-10.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunar Client Mods for the best PvP experience ]]></title>
+            <link>https://www.lunarclient.com/news/lunar-client-mods-for-the-best-pvp-experience</link>
+            <guid>lunar-client-mods-for-the-best-pvp-experience</guid>
+            <pubDate>Fri, 29 Sep 2023 23:59:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/d6042acc13-2023-09-28_13-47-48.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to set up Shaders on Lunar Client]]></title>
+            <link>https://www.lunarclient.com/news/how-to-set-up-shaders-on-lunar-client</link>
+            <guid>how-to-set-up-shaders-on-lunar-client</guid>
+            <pubDate>Tue, 26 Sep 2023 23:59:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/163419d3a9-2023-08-18_04-46-16.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Which Lunar Client Module is better?]]></title>
+            <link>https://www.lunarclient.com/news/which-lunar-client-module-is-better</link>
+            <guid>which-lunar-client-module-is-better</guid>
+            <pubDate>Sun, 17 Sep 2023 20:56:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/f1e23e1648-2023-08-18_04-15-42.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to make a custom crosshair on Lunar Client]]></title>
+            <link>https://www.lunarclient.com/news/how-to-make-a-custom-crosshair-on-lunar-client</link>
+            <guid>how-to-make-a-custom-crosshair-on-lunar-client</guid>
+            <pubDate>Sun, 10 Sep 2023 20:56:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/064c44ec33-2023-08-18_040730blur.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Minecraft Server Hosting for Education]]></title>
+            <link>https://www.lunarclient.com/news/minecraft-server-hosting-for-education</link>
+            <guid>minecraft-server-hosting-for-education</guid>
+            <pubDate>Sun, 03 Sep 2023 23:59:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/54b9a0e1ee-2023-08-18_04-37-06.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to use the Particle Multiplier Mod on Lunar Client]]></title>
+            <link>https://www.lunarclient.com/news/how-to-use-the-particle-multiplier-mod-on-lunar-client</link>
+            <guid>how-to-use-the-particle-multiplier-mod-on-lunar-client</guid>
+            <pubDate>Sun, 27 Aug 2023 02:15:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/aca2b0274f-2023-08-18_04-22-47.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Lunar Client perfect for playing Bed Wars?]]></title>
+            <link>https://www.lunarclient.com/news/why-is-lunar-client-perfect-for-playing-bedwars</link>
+            <guid>why-is-lunar-client-perfect-for-playing-bedwars</guid>
+            <pubDate>Tue, 22 Aug 2023 16:49:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/cffdd15d52-bwbg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beginner Modpacks for Minecraft Server Hosting]]></title>
+            <link>https://www.lunarclient.com/news/beginner-modpacks-for-minecraft-server-hosting</link>
+            <guid>beginner-modpacks-for-minecraft-server-hosting</guid>
+            <pubDate>Thu, 17 Aug 2023 21:40:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/c0c63293b8-modpackbg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Launcher is Here!]]></title>
+            <link>https://www.lunarclient.com/news/the-new-launcher-is-here</link>
+            <guid>the-new-launcher-is-here</guid>
+            <pubDate>Sun, 13 Aug 2023 23:25:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/27f28c03bb-2022-09-29_13-46-24.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How do you login to Lunar Client with a Microsoft account?]]></title>
+            <link>https://www.lunarclient.com/news/how-do-you-login-to-lunar-client-with-a-microsoft-account</link>
+            <guid>how-do-you-login-to-lunar-client-with-a-microsoft-account</guid>
+            <pubDate>Thu, 10 Aug 2023 22:59:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/5f029452dc-microsoftaccblog.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to equip cosmetics on Lunar Client]]></title>
+            <link>https://www.lunarclient.com/news/how-to-equip-cosmetics-on-lunar-client</link>
+            <guid>how-to-equip-cosmetics-on-lunar-client</guid>
+            <pubDate>Sun, 06 Aug 2023 22:51:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/d1e2379df2-equipcosmeticsblog.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Hosted Worlds!]]></title>
+            <link>https://www.lunarclient.com/news/introducing-hosted-worlds</link>
+            <guid>introducing-hosted-worlds</guid>
+            <pubDate>Sat, 29 Jul 2023 13:49:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/1515578777-2023-07-11_22-16-06.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[What to look for in a Minecraft Server Host]]></title>
+            <link>https://www.lunarclient.com/news/what-to-look-for-in-a-minecraft-server-host</link>
+            <guid>what-to-look-for-in-a-minecraft-server-host</guid>
+            <pubDate>Mon, 24 Jul 2023 15:00:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/e84f1bbeb8-serverhostblog2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Replay Mod is back!]]></title>
+            <link>https://www.lunarclient.com/news/replay-mod-is-back</link>
+            <guid>replay-mod-is-back</guid>
+            <pubDate>Sat, 15 Jul 2023 12:00:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/949993a18d-2023-07-14_12-50-50.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunar Client x MCC Island!]]></title>
+            <link>https://www.lunarclient.com/news/lunar-client-x-mcc-island</link>
+            <guid>lunar-client-x-mcc-island</guid>
+            <pubDate>Mon, 03 Jul 2023 09:00:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/ce7d5458cc-mccisland.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.20 is here!]]></title>
+            <link>https://www.lunarclient.com/news/version-1-20-support</link>
+            <guid>version-1-20-support</guid>
+            <pubDate>Wed, 07 Jun 2023 14:06:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/acef9eed39-2023-06-06_23-29-16.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #23]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-23</link>
+            <guid>patch-notes-23</guid>
+            <pubDate>Sat, 27 May 2023 12:00:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/97ba1c8800-background.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[What is the Lunar Client Discord?]]></title>
+            <link>https://www.lunarclient.com/news/what-is-the-lunar-client-discord</link>
+            <guid>what-is-the-lunar-client-discord</guid>
+            <pubDate>Sat, 20 May 2023 21:12:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/f995b4a1ff-discordblog.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to get Lunar Client cosmetics for free]]></title>
+            <link>https://www.lunarclient.com/news/how-to-get-lunar-client-cosmetics-for-free</link>
+            <guid>how-to-get-lunar-client-cosmetics-for-free</guid>
+            <pubDate>Tue, 16 May 2023 10:00:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/33c699bb2f-background.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Boost FPS on Minecraft with Lunar Client]]></title>
+            <link>https://www.lunarclient.com/news/how-to-boost-fps-on-minecraft-with-lunar-client</link>
+            <guid>how-to-boost-fps-on-minecraft-with-lunar-client</guid>
+            <pubDate>Fri, 12 May 2023 19:10:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/e39e39957a-fpsblog.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[What is Lunar Client?]]></title>
+            <link>https://www.lunarclient.com/news/what-is-lunar-client</link>
+            <guid>what-is-lunar-client</guid>
+            <pubDate>Mon, 08 May 2023 10:00:00 GMT</pubDate>
+            <description><![CDATA[Blog]]></description>
+            <category>Blog</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/793fd25c2d-header.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #22]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-22</link>
+            <guid>patch-notes-22</guid>
+            <pubDate>Sun, 19 Mar 2023 21:29:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/eb95664655-2023-03-16_16-08-14.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.19.3 is here!]]></title>
+            <link>https://www.lunarclient.com/news/1-19-3-support-is-here</link>
+            <guid>1-19-3-support-is-here</guid>
+            <pubDate>Mon, 23 Jan 2023 19:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/74b22e9629-1-19-3-release.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunar x TubNet]]></title>
+            <link>https://www.lunarclient.com/news/lunar-client-x-tubnet</link>
+            <guid>lunar-client-x-tubnet</guid>
+            <pubDate>Fri, 23 Dec 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/b57e618240-lunar-x-tubnet.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #21]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-21</link>
+            <guid>patch-notes-21</guid>
+            <pubDate>Thu, 17 Nov 2022 22:25:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/fe6c29fd38-patch-notes-21.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[🚀 Astral Merch Drop]]></title>
+            <link>https://www.lunarclient.com/news/astral-merch-drop</link>
+            <guid>astral-merch-drop</guid>
+            <pubDate>Thu, 10 Nov 2022 20:01:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/2ab7d16e3e-astral-merch-drop.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunar x BisectHosting]]></title>
+            <link>https://www.lunarclient.com/news/lunar-client-x-bisecthosting</link>
+            <guid>lunar-client-x-bisecthosting</guid>
+            <pubDate>Thu, 03 Nov 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/0fb1b53e4d-lunar-x-bisect.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Sodium and Iris Beta!]]></title>
+            <link>https://www.lunarclient.com/news/sodium-and-iris</link>
+            <guid>sodium-and-iris</guid>
+            <pubDate>Tue, 23 Aug 2022 02:56:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/8a0febbdf6-sodium-iris-release.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Practice WorldWide]]></title>
+            <link>https://www.lunarclient.com/news/practice-worldwide</link>
+            <guid>practice-worldwide</guid>
+            <pubDate>Tue, 21 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/b117957a23-practice-worldwide.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #20]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-20</link>
+            <guid>patch-notes-20</guid>
+            <pubDate>Sat, 11 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/4a3151d11d-patch-notes-20.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.19 is here!]]></title>
+            <link>https://www.lunarclient.com/news/1-19-is-here</link>
+            <guid>1-19-is-here</guid>
+            <pubDate>Tue, 07 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/437a646adf-1_19-release.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #19]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-19</link>
+            <guid>patch-notes-19</guid>
+            <pubDate>Sun, 20 Mar 2022 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/35fbe0fa89-patch-notes-19.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Account Migration]]></title>
+            <link>https://www.lunarclient.com/news/microsoft-account-migration</link>
+            <guid>microsoft-account-migration</guid>
+            <pubDate>Wed, 23 Feb 2022 23:59:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/0b2e7712b5-microsoft-account-migration.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Lunar x Hypixel Network]]></title>
+            <link>https://www.lunarclient.com/news/lunar-client-x-hypixel-network</link>
+            <guid>lunar-client-x-hypixel-network</guid>
+            <pubDate>Sat, 05 Feb 2022 23:59:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/3a9125eb26-lunar-x-hypixel.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #18]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-18</link>
+            <guid>patch-notes-18</guid>
+            <pubDate>Wed, 02 Feb 2022 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/18621d9daf-patch-notes-18.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #17]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-17</link>
+            <guid>patch-notes-17</guid>
+            <pubDate>Fri, 03 Dec 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/42b729950d-patch-notes-17.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Merch Release]]></title>
+            <link>https://www.lunarclient.com/news/merch-release</link>
+            <guid>merch-release</guid>
+            <pubDate>Sat, 13 Nov 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/b26ae93fcc-merch-release.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #16]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-16</link>
+            <guid>patch-notes-16</guid>
+            <pubDate>Sun, 24 Oct 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/4829a990d6-patch-notes-16.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[1.18 Snapshots Are Here!]]></title>
+            <link>https://www.lunarclient.com/news/1-18-snapshots-are-here</link>
+            <guid>1-18-snapshots-are-here</guid>
+            <pubDate>Tue, 05 Oct 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/adac747bcb-1_18-release.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #15]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-15</link>
+            <guid>patch-notes-15</guid>
+            <pubDate>Sun, 26 Sep 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/4f1c9a2812-patch-notes-15.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #14]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-14</link>
+            <guid>patch-notes-14</guid>
+            <pubDate>Sun, 29 Aug 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/eb9a5136c8-patch-notes-14.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #13]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-13</link>
+            <guid>patch-notes-13</guid>
+            <pubDate>Tue, 13 Jul 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/e67ad0b945-patch-notes-13.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[1.17 Support Is Here!]]></title>
+            <link>https://www.lunarclient.com/news/1-17-support-is-here</link>
+            <guid>1-17-support-is-here</guid>
+            <pubDate>Wed, 16 Jun 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/32dd68799b-1_17-release.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #12]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-12</link>
+            <guid>patch-notes-12</guid>
+            <pubDate>Sun, 23 May 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/60a01c571f-patch-notes-12.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #11]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-11</link>
+            <guid>patch-notes-11</guid>
+            <pubDate>Sun, 11 Apr 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/79b3df70bb-patch-notes-11.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #10]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-10</link>
+            <guid>patch-notes-10</guid>
+            <pubDate>Sun, 21 Mar 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/04529ef4b7-patch-notes-10.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #9]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-9</link>
+            <guid>patch-notes-9</guid>
+            <pubDate>Sun, 07 Mar 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/29f4e03e5a-patch-notes-9.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #8]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-8</link>
+            <guid>patch-notes-8</guid>
+            <pubDate>Wed, 27 Jan 2021 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/8ccbf9babd-patch-notes-8.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #7]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-7</link>
+            <guid>patch-notes-7</guid>
+            <pubDate>Thu, 15 Oct 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/2aa7c69027-patch-notes-7.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Client Status Update]]></title>
+            <link>https://www.lunarclient.com/news/client-status-update</link>
+            <guid>client-status-update</guid>
+            <pubDate>Sun, 12 Jul 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Announcement]]></description>
+            <category>Announcement</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/292f3c0200-client-status-update.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #6]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-6</link>
+            <guid>patch-notes-6</guid>
+            <pubDate>Sat, 30 May 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/f4347afd19-patch-notes-6.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #5]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-5</link>
+            <guid>patch-notes-5</guid>
+            <pubDate>Sun, 10 May 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/54bbc15d9a-patch-notes-5.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #4]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-4</link>
+            <guid>patch-notes-4</guid>
+            <pubDate>Fri, 17 Apr 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/b9a0980dcd-patch-notes-4.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #3]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-3</link>
+            <guid>patch-notes-3</guid>
+            <pubDate>Sun, 22 Mar 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/0e348e9e38-patch-notes-3.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #2]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-2</link>
+            <guid>patch-notes-2</guid>
+            <pubDate>Sat, 07 Mar 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/9e32ef829e-patch-notes-2.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Patch Notes #1]]></title>
+            <link>https://www.lunarclient.com/news/patch-notes-1</link>
+            <guid>patch-notes-1</guid>
+            <pubDate>Fri, 28 Feb 2020 23:59:00 GMT</pubDate>
+            <description><![CDATA[Development]]></description>
+            <category>Development</category>
+            <enclosure url="https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/3f67709927-patch-notes-1.webp" length="0" type="image/webp"/>
+        </item>
+    </channel>
+</rss>

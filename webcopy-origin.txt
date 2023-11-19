@@ -1,0 +1,140 @@
+Uri: https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/6916ef5513-windows-bg.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\cdn-cgi\image\quality=85,format=auto\assets\6916ef5513-windows-bg.webp
+Content Type: image/jpeg
+
+Uri: https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/dc2fd295c8-macos-bg.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\cdn-cgi\image\quality=85,format=auto\assets\dc2fd295c8-macos-bg.webp
+Content Type: image/jpeg
+
+Uri: https://cmsassets.lunarclientcdn.com/cdn-cgi/image/quality=85,format=auto/assets/fa61a123cd-linux-bg.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\cdn-cgi\image\quality=85,format=auto\assets\fa61a123cd-linux-bg.webp
+Content Type: image/jpeg
+
+Uri: https://i.ytimg.com/vi_webp/V17mDby6v68/maxresdefault.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\vi_webp\V17mDby6v68\maxresdefault.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/assets/fonts/Panton-BlackCaps.woff2
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\assets\fonts\Panton-BlackCaps.woff2
+Content Type: font/woff2
+
+Uri: https://www.lunarclient.com/assets/fonts/Panton-BlackitalicCaps.woff2
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\assets\fonts\Panton-BlackitalicCaps.woff2
+Content Type: font/woff2
+
+Uri: https://www.lunarclient.com/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\assets\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.lunarclient.com/assets/img/footer/background.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\assets\img\footer\background.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/assets/img/logo.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\assets\img\logo.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/cdn-cgi/image/quality=85,format=auto/assets/img/changelog/header-game.png
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\cdn-cgi\image\quality=85,format=auto\assets\img\changelog\header-game.png
+Content Type: image/png
+
+Uri: https://www.lunarclient.com/cdn-cgi/image/quality=85,format=auto/assets/img/changelog/header-launcher.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\cdn-cgi\image\quality=85,format=auto\assets\img\changelog\header-launcher.webp
+Content Type: image/png
+
+Uri: https://www.lunarclient.com/changelog/rss.xml
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\changelog\rss.xml
+Content Type: application/xml
+
+Uri: https://www.lunarclient.com/download
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\download.html
+Content Type: text/html
+
+Uri: https://www.lunarclient.com/rss.xml
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\rss.xml
+Content Type: application/xml
+
+Uri: https://www.lunarclient.com/theme.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\theme.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/6b819ca4-0d1f17d46eef9231.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\6b819ca4-0d1f17d46eef9231.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/ac5e6d2a-3beb532c7a034a3c.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\ac5e6d2a-3beb532c7a034a3c.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/framework-2645a99191cfc5e9.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\framework-2645a99191cfc5e9.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/main-beba2aa10b874848.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\main-beba2aa10b874848.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/pages/download-056693a79b5b3030.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\pages\download-056693a79b5b3030.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/pages/_app-7a7c38e1b18f88ca.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\pages\_app-7a7c38e1b18f88ca.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/chunks/webpack-16788aae44bf6aec.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\chunks\webpack-16788aae44bf6aec.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/css/723857f4ba9a585a.css
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\css\723857f4ba9a585a.css
+Content Type: text/css
+
+Uri: https://www.lunarclient.com/_next/static/images/404-07b166a7ecd4fa49cf3fa75e86d3a616.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\404-07b166a7ecd4fa49cf3fa75e86d3a616.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/background-c905e9f820a236d48e1075ad338fd722.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\background-c905e9f820a236d48e1075ad338fd722.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/changelogs-9e47d3421714e46de3c2d1e24794fbb4.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\changelogs-9e47d3421714e46de3c2d1e24794fbb4.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/download-6a36519ffca0c88c95bd5ac72764598b.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\download-6a36519ffca0c88c95bd5ac72764598b.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/download-a74d790040e9848eea5e620eecac4e36.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\download-a74d790040e9848eea5e620eecac4e36.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/news-ffd670e739ec52b2c00be9580b97f484.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\news-ffd670e739ec52b2c00be9580b97f484.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/store-42194f2e566be081f741ad314582604d.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\store-42194f2e566be081f741ad314582604d.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/support-d2f29a8fa362155d67091a3a5e140965.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\support-d2f29a8fa362155d67091a3a5e140965.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/images/verification-62ce5fbeaf73fe1d97d828e16361c7d7.webp
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\images\verification-62ce5fbeaf73fe1d97d828e16361c7d7.webp
+Content Type: image/webp
+
+Uri: https://www.lunarclient.com/_next/static/pY6VjNgXKOWx36iv8y1uC/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\pY6VjNgXKOWx36iv8y1uC\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.lunarclient.com/_next/static/pY6VjNgXKOWx36iv8y1uC/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.lunarclient.com\_next\static\pY6VjNgXKOWx36iv8y1uC\_ssgManifest.js
+Content Type: application/javascript
+
